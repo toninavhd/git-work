@@ -94,4 +94,6 @@ Después del commit para arreglar el conflicto, *user1* modificará la línea 11
 
 #### ***Conclusiones***. <a name="id5"></a>
 
- El uso de git y github facilita muchísimo las tareas a distancia (en remoto) y es una herramienta importante en el campo de la informática a la hora de hacer código en un equipo de trabajo. A nuestro parecer es importante aprenderlo para que, a la hora de entrar en una empresa y trabajar con mas gente, podamos manejarnos y no hagamos perder tiempo al equipo.
+ El uso de git y github facilita muchísimo las tareas a distancia (en remoto) y es una herramienta importante en el campo de la informática a la hora de hacer código en un equipo de trabajo. 
+ 
+ A nuestro parecer es importante aprenderlo para que, a la hora de entrar en una empresa y trabajar con mas gente, podamos manejarnos para no hacer perder tiempo al equipo.
